@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../euler10/.idea/euler10.iml" filepath="$PROJECT_DIR$/../euler10/.idea/euler10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler11/.idea/euler11.iml" filepath="$PROJECT_DIR$/../euler11/.idea/euler11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler12/.idea/euler12.iml" filepath="$PROJECT_DIR$/../euler12/.idea/euler12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler13/.idea/euler13.iml" filepath="$PROJECT_DIR$/../euler13/.idea/euler13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler14/.idea/euler14.iml" filepath="$PROJECT_DIR$/../euler14/.idea/euler14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler15/.idea/euler15.iml" filepath="$PROJECT_DIR$/../euler15/.idea/euler15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler16/.idea/euler16.iml" filepath="$PROJECT_DIR$/../euler16/.idea/euler16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler17/.idea/euler17.iml" filepath="$PROJECT_DIR$/../euler17/.idea/euler17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/euler5.iml" filepath="$PROJECT_DIR$/.idea/euler5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler6/.idea/euler6.iml" filepath="$PROJECT_DIR$/../euler6/.idea/euler6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler7/.idea/euler7.iml" filepath="$PROJECT_DIR$/../euler7/.idea/euler7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler8/.idea/euler8.iml" filepath="$PROJECT_DIR$/../euler8/.idea/euler8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler9/.idea/euler9.iml" filepath="$PROJECT_DIR$/../euler9/.idea/euler9.iml" />
+    </modules>
+  </component>
+</project>
