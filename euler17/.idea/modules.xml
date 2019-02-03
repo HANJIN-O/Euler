@@ -4,6 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/euler17.iml" filepath="$PROJECT_DIR$/.idea/euler17.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../euler18/.idea/euler18.iml" filepath="$PROJECT_DIR$/../../euler18/.idea/euler18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler19/.idea/euler19.iml" filepath="$PROJECT_DIR$/../euler19/.idea/euler19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler20/.idea/euler20.iml" filepath="$PROJECT_DIR$/../euler20/.idea/euler20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler21/.idea/euler21.iml" filepath="$PROJECT_DIR$/../euler21/.idea/euler21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler23/.idea/euler22.iml" filepath="$PROJECT_DIR$/../euler23/.idea/euler22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler24/.idea/euler23.iml" filepath="$PROJECT_DIR$/../euler24/.idea/euler23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler25/.idea/euler25.py.iml" filepath="$PROJECT_DIR$/../euler25/.idea/euler25.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler26/.idea/euler26.iml" filepath="$PROJECT_DIR$/../euler26/.idea/euler26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler27/.idea/euler27.iml" filepath="$PROJECT_DIR$/../euler27/.idea/euler27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler28/.idea/euler28.iml" filepath="$PROJECT_DIR$/../euler28/.idea/euler28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler29/.idea/euler29.iml" filepath="$PROJECT_DIR$/../euler29/.idea/euler29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../euler30/.idea/euler30.iml" filepath="$PROJECT_DIR$/../euler30/.idea/euler30.iml" />
     </modules>
   </component>
 </project>

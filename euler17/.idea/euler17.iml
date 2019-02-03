@@ -2,8 +2,19 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.4.3 (/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="PyPy 2.4.0 [Python 3.2.5] (/usr/local/opt/pypy3/bin/pypy3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="euler18" />
+    <orderEntry type="module" module-name="euler19" />
+    <orderEntry type="module" module-name="euler20" />
+    <orderEntry type="module" module-name="euler21" />
+    <orderEntry type="module" module-name="euler23" />
+    <orderEntry type="module" module-name="euler24" />
+    <orderEntry type="module" module-name="euler25" />
+    <orderEntry type="module" module-name="euler26" />
+    <orderEntry type="module" module-name="euler27" />
+    <orderEntry type="module" module-name="euler28" />
+    <orderEntry type="module" module-name="euler29" />
+    <orderEntry type="module" module-name="euler30" />
   </component>
 </module>
